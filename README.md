@@ -1,46 +1,34 @@
-<h1 align="center">Hi, I'm Kaustubh Kaushal 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kausstubhhh/">Kaustubh Kaushal</a> 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning%2C+Always+Building" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <a href="https://www.linkedin.com/in/kausstubhhh/">LinkedIn</a> •
+  <a href="https://github.com/kausstubhhh">GitHub</a> •
+  <a href="https://www.instagram.com/kausstubhhh/">Instagram</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨🏻‍💻 About Me
+<img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
-I’m a postgraduate student with a growing interest in **data science**, **machine learning**, and **working with real-world datasets**.  
-I enjoy understanding data, spotting patterns, and turning complex information into something meaningful and usable.
+🎓 MSc Data Science Student (UK)  
+📊 Interested in data analysis, machine learning & real-world datasets  
+🧠 Focused on understanding patterns, uncertainty & interpretation  
+🌱 Constantly learning and improving through practice and experimentation  
 
-- 🎓 MSc Data Science student  
-- 📊 Interested in data analysis & applied ML  
-- 🧠 Curious, analytical, and detail-oriented  
-- 🌱 Constantly learning and improving  
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kausstubhhh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kausstubhhh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/kausstubhhh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+I enjoy working with data end-to-end — from cleaning and exploration to modelling and communicating results clearly.
 
 ---
 
-### 🛠 Languages & Tools
+## 🔍 What I’m Currently Learning
+- Exploratory Data Analysis (EDA)
+- Supervised Machine Learning
+- Feature engineering & evaluation metrics
+- Statistical reasoning for data science
+
+---
+
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -54,7 +42,8 @@ I enjoy understanding data, spotting patterns, and turning complex information i
 
 ---
 
-### ⚡ A Little More About Me
+<details>
+<summary><b>🧠 My Approach to Data</b></summary>
 
 ```python
 kaustubh = {
