@@ -11,20 +11,20 @@
 ## 👨🏻‍💻 About Me
 <img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
-🎓 MSc Data Science Student (UK)  
-📊 Interested in data analysis, machine learning & real-world datasets  
-🧠 Focused on understanding patterns, uncertainty & interpretation  
-🌱 Constantly learning and improving through practice and experimentation  
+🎓 MSc Advanced Computer Science (Data Analytics) student — University of Leeds  
+📊 Background in computer science with a strong focus on data-driven problem solving  
+🧠 Interested in analytics, machine learning, optimisation & predictive modelling  
+🌱 Continuously building technical depth alongside leadership and communication skills  
 
-I enjoy working with data end-to-end — from cleaning and exploration to modelling and communicating results clearly.
+My academic and professional journey is centred on using **data and technology to solve real problems**. I enjoy working across the full data lifecycle — from understanding the problem context and data quality, to analysis, modelling, and clearly communicating insights to technical and non-technical audiences.
 
 ---
 
-## 🔍 What I’m Currently Learning
-- Exploratory Data Analysis (EDA)
-- Supervised Machine Learning
-- Feature engineering & evaluation metrics
-- Statistical reasoning for data science
+## 🔍 Current Learning & Focus
+- Exploratory Data Analysis (EDA) on large, real-world datasets  
+- Supervised machine learning and model evaluation  
+- Feature engineering, metrics, and interpretability  
+- Statistical reasoning for reliable decision-making  
 
 ---
 
@@ -47,8 +47,26 @@ I enjoy working with data end-to-end — from cleaning and exploration to modell
 
 ```python
 kaustubh = {
-    "role": "Data Science Student",
-    "interests": ["data analysis", "machine learning", "problem solving"],
-    "currently_learning": ["applied ML", "statistical reasoning"],
-    "mindset": "learn → build → improve"
+    "background": "Computer Science → Data Analytics",
+    "experience": [
+        "working with large, real-world datasets",
+        "exploratory data analysis and preprocessing",
+        "building and evaluating predictive models"
+    ],
+    "interests": [
+        "machine learning",
+        "optimisation and analytics",
+        "understanding patterns and uncertainty"
+    ],
+    "approach": [
+        "start with EDA and data quality checks",
+        "choose models appropriate to the problem",
+        "evaluate results critically and acknowledge limitations"
+    ],
+    "strengths": [
+        "analytical thinking",
+        "clear communication",
+        "leading and coordinating teams"
+    ],
+    "mindset": "solve real problems with rigour, clarity, and responsibility"
 }
