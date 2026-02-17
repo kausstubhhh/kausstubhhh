@@ -43,7 +43,7 @@ My academic and professional journey is centred on using **data and technology t
 ---
 
 <details>
-<summary><b>🧠 My Approach to Data</b></summary>
+<summary><b>🧠 More</b></summary>
 
 ```python
 kaustubh = {
